@@ -1,4 +1,5 @@
 # MoveFit
+The primary purpose of this project is to enable users to efficiently track the details of their workouts. For privacy and data security, authentication mechanism is introduced into the project.
 This project is a simple application created with an interntion to better understand the process of coding a full-stack application from scratch.
 A user can log their workouts using a form provided on the home page having simple details like sets, reps, load etc.
 Authentication process is created using JWT to create an individual user oriented environment.
